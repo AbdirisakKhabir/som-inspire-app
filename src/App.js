@@ -17,7 +17,7 @@ function App() {
       <About />
       <CenterNavbar />
       <VideoCreators />
-      <Podcasters />
+      {/* <Podcasters /> */}
       {/* <Body /> */}
       <GetStarted />
       <Contact />
