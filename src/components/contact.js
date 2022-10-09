@@ -76,7 +76,7 @@ const Contact = ({ value, type, onChange, name, placeholder, onSubmit }) => {
                 <div className="checkbox mx-3">
                   <textarea
                     className="form-control mb-2"
-                    placeholder="Your Message"
+                    placeholder="Enter Your Message"
                     rows="3"
                   ></textarea>
                 </div>
